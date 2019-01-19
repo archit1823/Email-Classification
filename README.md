@@ -1,2 +1,4 @@
 # Email-Classification
-Email Classification using Multi-Nomial Naive Bayes
+Email Classification using Natural Language Processing(NLP) and Multi-Nomial Naive Bayes.
+
+
